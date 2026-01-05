@@ -4,6 +4,7 @@
 파이썬 기본 문법 스터디
 
 # 폴더 구조
+```
 inflearn_python_basic/
 ├── coding_test
 │   ├── Week0/                   # 0주차
@@ -26,3 +27,4 @@ inflearn_python_basic/
 │   │   └── ...
 │ 
 └── README.md
+```
